@@ -110,8 +110,13 @@ Permite cambiar las claves (AES y HMAC) de un directorio ya protegido sin necesi
 
 ```plaintext
 .
+├── INSTRUCTIONS.md        # Instrucciones de instalación y ejecución del proyecto
 ├── README.md              # Descripción del proyecto
 ├── cambiar_clave.sh       # Cambia las claves de un directorio protegido
 ├── cifrar.sh              # Cifra un directorio
 └── descifrar.sh           # Descifra un directorio protegido
 ```
+
+## Instalación y ejecución
+
+Ver [INSTRUCTIONS.md](INSTRUCTIONS.md)
