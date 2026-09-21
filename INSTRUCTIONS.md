@@ -4,9 +4,9 @@
 
 - **Bash** 4.0 o superior
 
-- **OpenSSL** instalado
+- **OpenSSL** 1.1.1 o superior
 
-- **Linux** o **WSL** (Windows Subsystem for Linux)
+- **Linux**, **MacOS** o **WSL** (Windows Subsystem for Linux)
 
 ## Instalación
 
@@ -21,6 +21,7 @@ git clone https://github.com/carlossanchezh/cifrador-directorios.git
 ```bash
 chmod +x cifrar.sh descifrar.sh cambiar_clave.sh
 ```
+>Necesario para poder invocar el script directamente con `./<script>.sh` Si prefieres no darlo, puedes ejecutarlo con `bash <script>.sh`.
 
 ## Ejecución
 
